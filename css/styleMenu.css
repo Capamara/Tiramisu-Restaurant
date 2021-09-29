@@ -28,7 +28,7 @@ body{
 }
 
 #bg-section{
-    background-image: url("/img/BGSection.jpg");
+    background-image: url("../img/BGSection.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
